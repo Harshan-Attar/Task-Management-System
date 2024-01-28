@@ -11,7 +11,6 @@ It performs the functionalities of:
 *   Updating Lists
 *   Deleting Tasks and Lists
 
-<br><br>
 <hr>
 Authors: 
 <br>
